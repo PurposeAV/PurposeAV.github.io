@@ -40,8 +40,8 @@
 }
 
 .main__column__btn button {
-  background-color: #333;
-  color: #fff;
+  background-color: #fff;
+  color: #f333;
   border: none;
   padding: 10px 20px;
   text-decoration: none;
@@ -55,7 +55,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
+  background-color: #333;
   padding: 20px;
 }
 
